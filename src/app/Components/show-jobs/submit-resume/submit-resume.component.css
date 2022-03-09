@@ -1,0 +1,10 @@
+.submit-resume-overlay{
+    background-color: rgba(17, 17, 17, 0.411);
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: -40%;
+    
+}
